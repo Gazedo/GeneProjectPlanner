@@ -1,4 +1,4 @@
-##Ball Python breeding Calculator
+##Ball Python Breeding Calculator
 ###Goal Create a modular software suite that has a variety of priorities.
 1. Predict outcomes of a pairing
 2.	Use predicts to calculate backwards from target animal to choose possible paths to take
